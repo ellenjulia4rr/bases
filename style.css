@@ -48,6 +48,10 @@ main {
     margin-bottom: 40px;
 }
 
+.container_timeline{
+    margin-left: 5em;
+}
+
 .equipe {
     display: flex;
     justify-content: start;
